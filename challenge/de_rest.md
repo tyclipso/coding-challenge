@@ -1,6 +1,6 @@
-# Startnext Coding Challenge
+# Tyclipso.net Coding Challenge
 
-Forke dieses Repository in ein privates Repository und füge @verbunden (Benjamin Brandt) und @frzb (Gunter Miegel) als Mitarbeiter hinzu. 
+Forke dieses Repository in ein privates Repository und füge @tyclipso als Mitarbeiter hinzu. 
 
 > Entwerfe eine einfache REST API die Teil einer Crowdfunding-Platform sein könnte.
 > Implementiere diese API in einem RESTful Webservice.
@@ -8,7 +8,7 @@ Forke dieses Repository in ein privates Repository und füge @verbunden (Benjami
 Der Webservice soll basieren auf:
 
 - PHP 7.4
-- Doctrine für ORM
+- optional: Doctrine für ORM  
 
 ## Datenmodell
 
@@ -33,14 +33,14 @@ Nutzer sind Projekten zugeordnet
 - Projekt löschen
 - alle Projekte vom Nutzer auslesen
 - den eigenen Nutzer und seine Projekte löschen
-- State-of-the-Art HTTP Authentifizierung
 - Dokumentation der API
-- Unit Tests
 
 ## Optional
 
 Diese Punkte sind optional - hier einige Anregungen was Du zusaetzlich noch machen kannst:
 
+- State-of-the-Art HTTP Authentifizierung
+- Unit Tests
 - Internationalisierung/i18n der Projektdaten
 - Einfaches Frontend für den Zugriff auf die API
 - Applikation in Container
