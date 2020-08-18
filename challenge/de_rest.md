@@ -4,6 +4,8 @@ Forke dieses Repository in ein privates Repository und füge @tyclipso als Mitar
 
 > Entwerfe eine einfache REST API die Teil einer Crowdfunding-Platform sein könnte.
 > Implementiere diese API in einem RESTful Webservice.
+> Keine Erfahrungen mit der Entwicklung von REST APIs / Webservices ? 
+> Kein Problem, setze die Aufgabe soweit wie möglich nach deinen Kenntisstand um. 
 
 Der Webservice soll basieren auf:
 
