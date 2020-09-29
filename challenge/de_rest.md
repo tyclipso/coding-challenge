@@ -1,6 +1,6 @@
 # Tyclipso.net Coding Challenge
 
-Forke dieses Repository in ein privates Repository und füge @tyclipso als Mitarbeiter hinzu. 
+[Dupliziere][duplicate] dieses Repository in ein privates Repository und füge @tyclipso-gmbh und @MarauderXtreme als Mitwirkende hinzu.
 
 > Entwirf eine einfache REST API, die Teil einer Online-Plattform sein könnte.
 > Implementiere diese API in einem RESTful Webservice.
@@ -48,3 +48,5 @@ Hier einige Anregungen, welche du zusätzlich noch umsetzen kannst:
 - Applikation in einem Docker Container zur Verfügung stellen
 - Implementierung als Microservice
 - Weiterer API-Endpunkt in anderer Programmiersprache
+
+[duplicate]: https://docs.github.com/de/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
