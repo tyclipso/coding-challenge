@@ -20,3 +20,7 @@ Wenn du einverstanden bist, würden wir die Inhalte in unser internes Gitlab spi
 - [PHP REST API][php-rest]
 
 [php-rest]: challenge/php/rest.md
+
+## Is it any good
+
+[Yes](https://news.ycombinator.com/item?id=3067434)
