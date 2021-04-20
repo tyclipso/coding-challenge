@@ -11,7 +11,7 @@ Wir sind sehr gespannt.
 
 Du wurdest wahrscheinlich während eines Bewerbungsgesprächs auf dieses Repo aufmerksam gemacht.
 [Dupliziere][duplicate] dieses Repository in ein privates Repository und füge @tyconaut-frank und @MarauderXtreme als Mitwirkende hinzu.
-Bearbeite die entsprechende Challenge und wenn du fertig bist, tagge bitte den finalen Stand.
+Bearbeite die entsprechende Challenge und tagge den finalen Stand, wenn Du fertig bist.
 
 Wenn du einverstanden bist, würden wir die Inhalte in unser internes Gitlab spiegeln, damit die anderen Involvierten auch Zugriff bekommen.
 
