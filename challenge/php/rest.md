@@ -1,12 +1,10 @@
-# Tyclipso.net Coding Challenge
-
-[Dupliziere][duplicate] dieses Repository in ein privates Repository und füge @tyclipso-gmbh und @MarauderXtreme als Mitwirkende hinzu.
+# PHP REST API
 
 > Entwirf eine einfache REST API, die Teil einer Online-Plattform sein könnte.
 > Implementiere diese API in einem RESTful Webservice.
-> Keine Erfahrungen mit der Entwicklung von REST APIs / Webservices? Kein Problem! Setze die Aufgabe soweit wie möglich mit deinem Kenntnisstand um. 
+> Keine Erfahrungen mit der Entwicklung von REST APIs / Webservices? Kein Problem! Setze die Aufgabe soweit wie möglich mit deinem Kenntnisstand um.
 
-Der Webservice soll basieren auf:
+## Vorgaben
 
 - PHP 7.4
 - optional: Doctrine für ORM  
